@@ -11,3 +11,5 @@ osteoarthritis.
 
 • Calculating the distance plays a vital role in assessing the disease’s seriousness and predicting the probability of
 progressing to the next stage.
+
+Dataset link: https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity
